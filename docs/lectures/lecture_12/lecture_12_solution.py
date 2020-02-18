@@ -72,8 +72,8 @@ print(f"Jamaica slice = {jamaica}\n")
 
 
 # Built-in enumerate() function (very cool)
-
-# Adds a counter to an iterable (i.e., list, tuple)
+# Takes an iterable (e.g., list, tuple) and for each element/item returns
+# a tuple comprising the item's index value and the item itself.
 
 jamaica_enumerated = list(enumerate(jamaica)) # list of tuples (cool)
 

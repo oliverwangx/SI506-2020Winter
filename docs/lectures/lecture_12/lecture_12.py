@@ -72,8 +72,8 @@ jamaica = jamaica[:2] # slice
 
 
 # Built-in enumerate() function (very cool)
-
-# Adds a counter to an iterable (i.e., list, tuple)
+# Takes an iterable (e.g., list, tuple) and for each element/item returns
+# a tuple comprising the item's index value and the item itself.
 
 jamaica_enumerated = list(enumerate(jamaica)) # list of tuples (cool)
 
@@ -268,10 +268,10 @@ olympic_bobsleigh[2018, 'USA', 'women'] = 'Elana Meyers Taylor','Lauren Gibbs'
 #         continue
 
 
-for key, val in olympic_bobsleigh.items():
-    if key[1:] == ('Canada', 'women'): # tuple slice
-        print(val)
-    else:
-        continue
+# for key, val in olympic_bobsleigh.items():
+#     if key[1:] == ('Canada', 'women'): # tuple slice
+#         print(val)
+#     else:
+#         continue
 
 print('\n') # padding
