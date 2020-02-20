@@ -140,7 +140,7 @@ Consider opening a browser tab for each of the following resources _before_ comm
 
 | Browser tab | URL | Note |
 | :---------- | :-- | :--- |
-| Midterm Exam Guide | https://github.com/umsi-arwhyte/SI506-2019Winter/blob/master/docs/midterm/midterm_guide.md | Guide |
+| Midterm Exam Guide | https://github.com/umsi-arwhyte/SI506-2020Winter/blob/master/docs/midterm/midterm_guide.md | Guide |
 | Instructure Canvas | https://umich.instructure.com/courses/343044/ | See Canvas Modules for the link to the midterm Quiz and problems. |
 | operators | https://www.w3schools.com/python/python_operators.asp | Operators reference |
 | string methods | https://www.w3schools.com/python/python_ref_string.asp | String methods reference |
